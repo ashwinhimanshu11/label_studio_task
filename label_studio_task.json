@@ -11,13 +11,13 @@
             "original_height": 960,
             "image_rotation": 0,
             "value": {
-              "x": 27.079395085066167,
-              "y": 56.33270321361059,
-              "width": 47.63705103969754,
-              "height": 8.884688090737235,
+              "x": 27.291233134371286,
+              "y": 57.15760247323413,
+              "width": 47.185325495232576,
+              "height": 7.629468052711722,
               "rotation": 0
             },
-            "id": "WAcAzX7Nj8",
+            "id": "9GcXTwRkHk",
             "from_name": "bbox",
             "to_name": "image",
             "type": "rectangle",
@@ -28,14 +28,14 @@
             "original_height": 960,
             "image_rotation": 0,
             "value": {
-              "x": 27.079395085066167,
-              "y": 56.33270321361059,
-              "width": 47.63705103969754,
-              "height": 8.884688090737235,
+              "x": 27.291233134371286,
+              "y": 57.15760247323413,
+              "width": 47.185325495232576,
+              "height": 7.629468052711722,
               "rotation": 0,
               "text": ["CARDTERMS"]
             },
-            "id": "WAcAzX7Nj8",
+            "id": "9GcXTwRkHk",
             "from_name": "transcription",
             "to_name": "image",
             "type": "textarea",
@@ -46,13 +46,13 @@
             "original_height": 960,
             "image_rotation": 0,
             "value": {
-              "x": 20.739799202506592,
-              "y": 69.83005224928921,
-              "width": 60.25519848771258,
-              "height": 5.67107750472591,
-              "rotation": 0.9710219310788375
+              "x": 20.98261778155672,
+              "y": 70.23139578097334,
+              "width": 59.773947782206925,
+              "height": 5.281939421108159,
+              "rotation": 0.7794863211181564
             },
-            "id": "Zw35vUHnIq",
+            "id": "zokTu0x9Nr",
             "from_name": "bbox",
             "to_name": "image",
             "type": "rectangle",
@@ -63,14 +63,14 @@
             "original_height": 960,
             "image_rotation": 0,
             "value": {
-              "x": 20.739799202506592,
-              "y": 69.83005224928921,
-              "width": 60.25519848771258,
-              "height": 5.67107750472591,
-              "rotation": 0.9710219310788375,
+              "x": 20.98261778155672,
+              "y": 70.23139578097334,
+              "width": 59.773947782206925,
+              "height": 5.281939421108159,
+              "rotation": 0.7794863211181564,
               "text": ["CARDTERMS MARKETING SDN BHD"]
             },
-            "id": "Zw35vUHnIq",
+            "id": "zokTu0x9Nr",
             "from_name": "transcription",
             "to_name": "image",
             "type": "textarea",
@@ -79,13 +79,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2024-05-29T05:06:07.681818Z",
-        "updated_at": "2024-05-29T05:06:07.681856Z",
-        "draft_created_at": "2024-05-29T05:03:27.893243Z",
-        "lead_time": 173.477,
+        "created_at": "2024-05-29T08:55:21.227632Z",
+        "updated_at": "2024-05-29T08:55:21.227669Z",
+        "draft_created_at": "2024-05-29T08:54:30.925706Z",
+        "lead_time": 71.761,
         "prediction": {},
         "result_count": 0,
-        "unique_id": "387a3055-312e-4f4b-8d4b-493d2c1b7642",
+        "unique_id": "58baa8ff-651a-458b-8e83-670044e815e2",
         "import_id": null,
         "last_action": null,
         "task": 1,
@@ -96,13 +96,13 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "5239d9e7-dsc00734.jpg",
+    "file_upload": "c50b7112-dsc00734.jpg",
     "drafts": [],
     "predictions": [],
-    "data": { "ocr": "/data/upload/1/5239d9e7-dsc00734.jpg" },
+    "data": { "ocr": "/data/upload/1/c50b7112-dsc00734.jpg" },
     "meta": {},
-    "created_at": "2024-05-29T04:59:32.016399Z",
-    "updated_at": "2024-05-29T05:06:07.740528Z",
+    "created_at": "2024-05-29T08:53:37.064191Z",
+    "updated_at": "2024-05-29T08:55:21.282146Z",
     "inner_id": 1,
     "total_annotations": 1,
     "cancelled_annotations": 0,
@@ -126,18 +126,16 @@
             "original_height": 1536,
             "image_rotation": 0,
             "value": {
-              "points": [
-                [26.795841209829867, 37.24007561436673],
-                [75.14177693761815, 34.78260869565217],
-                [75.14177693761815, 41.02079395085066],
-                [26.65406427221172, 42.53308128544423]
-              ],
-              "closed": true
+              "x": 26.99767079877663,
+              "y": 36.27374787719378,
+              "width": 11.93165378872909,
+              "height": 6.305345498108871,
+              "rotation": 0
             },
-            "id": "A0mZobXfcF",
-            "from_name": "poly",
+            "id": "dkhTmYSCGz",
+            "from_name": "bbox",
             "to_name": "image",
-            "type": "polygon",
+            "type": "rectangle",
             "origin": "manual"
           },
           {
@@ -145,16 +143,14 @@
             "original_height": 1536,
             "image_rotation": 0,
             "value": {
-              "points": [
-                [26.795841209829867, 37.24007561436673],
-                [75.14177693761815, 34.78260869565217],
-                [75.14177693761815, 41.02079395085066],
-                [26.65406427221172, 42.53308128544423]
-              ],
-              "closed": true,
-              "text": ["PUSAT PEMBUNGKUSAN"]
+              "x": 26.99767079877663,
+              "y": 36.27374787719378,
+              "width": 11.93165378872909,
+              "height": 6.305345498108871,
+              "rotation": 0,
+              "text": ["PUSAT"]
             },
-            "id": "A0mZobXfcF",
+            "id": "dkhTmYSCGz",
             "from_name": "transcription",
             "to_name": "image",
             "type": "textarea",
@@ -165,18 +161,16 @@
             "original_height": 1536,
             "image_rotation": 0,
             "value": {
-              "points": [
-                [27.07939508506619, 43.667296786389414],
-                [75, 42.53308128544423],
-                [74.7164461247637, 48.77126654064272],
-                [27.07939508506616, 48.20415879017013]
-              ],
-              "closed": true
+              "x": 39.22034053357228,
+              "y": 35.012678777572006,
+              "width": 36.304239271803766,
+              "height": 7.1783933363085595,
+              "rotation": 0
             },
-            "id": "jOALsaOukO",
-            "from_name": "poly",
+            "id": "q_aEYXmiUf",
+            "from_name": "bbox",
             "to_name": "image",
-            "type": "polygon",
+            "type": "rectangle",
             "origin": "manual"
           },
           {
@@ -184,16 +178,14 @@
             "original_height": 1536,
             "image_rotation": 0,
             "value": {
-              "points": [
-                [27.07939508506619, 43.667296786389414],
-                [75, 42.53308128544423],
-                [74.7164461247637, 48.77126654064272],
-                [27.07939508506616, 48.20415879017013]
-              ],
-              "closed": true,
-              "text": ["DAN PELABELAN FAMA"]
+              "x": 39.22034053357228,
+              "y": 35.012678777572006,
+              "width": 36.304239271803766,
+              "height": 7.1783933363085595,
+              "rotation": 0,
+              "text": ["PEMBUNGKUSAN"]
             },
-            "id": "jOALsaOukO",
+            "id": "q_aEYXmiUf",
             "from_name": "transcription",
             "to_name": "image",
             "type": "textarea",
@@ -204,18 +196,16 @@
             "original_height": 1536,
             "image_rotation": 0,
             "value": {
-              "points": [
-                [57.76070189752206, 28.742607939592396],
-                [57.89298187300685, 32.44644725316684],
-                [64.24242069627732, 31.91732735122763],
-                [63.77944078208052, 28.30167468797639]
-              ],
-              "closed": true
+              "x": 26.92491681225999,
+              "y": 43.064119952080254,
+              "width": 8.803232368513537,
+              "height": 5.3352923445536575,
+              "rotation": 0
             },
-            "id": "KYXQQw9U2T",
-            "from_name": "poly",
+            "id": "ZLWpwDAOM7",
+            "from_name": "bbox",
             "to_name": "image",
-            "type": "polygon",
+            "type": "rectangle",
             "origin": "manual"
           },
           {
@@ -223,16 +213,84 @@
             "original_height": 1536,
             "image_rotation": 0,
             "value": {
-              "points": [
-                [57.76070189752206, 28.742607939592396],
-                [57.89298187300685, 32.44644725316684],
-                [64.24242069627732, 31.91732735122763],
-                [63.77944078208052, 28.30167468797639]
-              ],
-              "closed": true,
+              "x": 26.92491681225999,
+              "y": 43.064119952080254,
+              "width": 8.803232368513537,
+              "height": 5.3352923445536575,
+              "rotation": 0,
+              "text": ["DAN"]
+            },
+            "id": "ZLWpwDAOM7",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "x": 36.019165126840086,
+              "y": 43.16112526743578,
+              "width": 24.008815550491462,
+              "height": 5.238287029198133,
+              "rotation": 0
+            },
+            "id": "mv8mvRwFHM",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "x": 36.019165126840086,
+              "y": 43.16112526743578,
+              "width": 24.008815550491462,
+              "height": 5.238287029198133,
+              "rotation": 0,
+              "text": ["PELABELAN"]
+            },
+            "id": "mv8mvRwFHM",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "x": 60.39175060991475,
+              "y": 42.96711463672474,
+              "width": 14.623551289844798,
+              "height": 5.432297659909175,
+              "rotation": 0
+            },
+            "id": "5xeu5qdvLr",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "x": 60.39175060991475,
+              "y": 42.96711463672474,
+              "width": 14.623551289844798,
+              "height": 5.432297659909175,
+              "rotation": 0,
               "text": ["FAMA"]
             },
-            "id": "KYXQQw9U2T",
+            "id": "5xeu5qdvLr",
             "from_name": "transcription",
             "to_name": "image",
             "type": "textarea",
@@ -243,18 +301,16 @@
             "original_height": 1536,
             "image_rotation": 0,
             "value": {
-              "points": [
-                [44.46656436129952, 29.359914491854806],
-                [37.65414562383224, 29.624474442824404],
-                [38.315545501256246, 26.273381730542773],
-                [44.40042437355711, 25.832448478926768]
-              ],
-              "closed": true
+              "x": 46.85950911781957,
+              "y": 54.8017631100983,
+              "width": 13.823257438161747,
+              "height": 7.2753986516640765,
+              "rotation": 0
             },
-            "id": "P04aOgUmzA",
-            "from_name": "poly",
+            "id": "AbGzlejsiu",
+            "from_name": "bbox",
             "to_name": "image",
-            "type": "polygon",
+            "type": "rectangle",
             "origin": "manual"
           },
           {
@@ -262,55 +318,84 @@
             "original_height": 1536,
             "image_rotation": 0,
             "value": {
-              "points": [
-                [44.46656436129952, 29.359914491854806],
-                [37.65414562383224, 29.624474442824404],
-                [38.315545501256246, 26.273381730542773],
-                [44.40042437355711, 25.832448478926768]
-              ],
-              "closed": true,
-              "text": ["moa"]
-            },
-            "id": "P04aOgUmzA",
-            "from_name": "transcription",
-            "to_name": "image",
-            "type": "textarea",
-            "origin": "manual"
-          },
-          {
-            "original_width": 2048,
-            "original_height": 1536,
-            "image_rotation": 0,
-            "value": {
-              "points": [
-                [46.913743907768335, 55.02222973590629],
-                [46.71532394454114, 61.371668559176754],
-                [60.86928132141489, 61.72441516046956],
-                [60.803141333672485, 55.46316298752229]
-              ],
-              "closed": true
-            },
-            "id": "JBMzqH1a9U",
-            "from_name": "poly",
-            "to_name": "image",
-            "type": "polygon",
-            "origin": "manual"
-          },
-          {
-            "original_width": 2048,
-            "original_height": 1536,
-            "image_rotation": 0,
-            "value": {
-              "points": [
-                [46.913743907768335, 55.02222973590629],
-                [46.71532394454114, 61.371668559176754],
-                [60.86928132141489, 61.72441516046956],
-                [60.803141333672485, 55.46316298752229]
-              ],
-              "closed": true,
+              "x": 46.85950911781957,
+              "y": 54.8017631100983,
+              "width": 13.823257438161747,
+              "height": 7.2753986516640765,
+              "rotation": 0,
               "text": ["5 KM"]
             },
-            "id": "JBMzqH1a9U",
+            "id": "AbGzlejsiu",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "x": 37.83801478975611,
+              "y": 25.40915255737542,
+              "width": 6.838874732564236,
+              "height": 4.365239190998448,
+              "rotation": 0
+            },
+            "id": "EneVLcvdOA",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "x": 37.83801478975611,
+              "y": 25.40915255737542,
+              "width": 6.838874732564236,
+              "height": 4.365239190998448,
+              "rotation": 0,
+              "text": ["moa"]
+            },
+            "id": "EneVLcvdOA",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "x": 57.33608317621584,
+              "y": 28.70733327946314,
+              "width": 7.057136692114149,
+              "height": 3.589196668154276,
+              "rotation": 0
+            },
+            "id": "aane5xlFce",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "x": 57.33608317621584,
+              "y": 28.70733327946314,
+              "width": 7.057136692114149,
+              "height": 3.589196668154276,
+              "rotation": 0,
+              "text": ["FAMA"]
+            },
+            "id": "aane5xlFce",
             "from_name": "transcription",
             "to_name": "image",
             "type": "textarea",
@@ -319,13 +404,13 @@
         ],
         "was_cancelled": false,
         "ground_truth": false,
-        "created_at": "2024-05-29T05:09:40.829108Z",
-        "updated_at": "2024-05-29T05:09:40.829146Z",
-        "draft_created_at": "2024-05-29T05:06:31.179724Z",
-        "lead_time": 208.978,
+        "created_at": "2024-05-29T08:58:10.441491Z",
+        "updated_at": "2024-05-29T08:58:10.441522Z",
+        "draft_created_at": "2024-05-29T08:55:56.295219Z",
+        "lead_time": 166.552,
         "prediction": {},
         "result_count": 0,
-        "unique_id": "a8e1f725-2ba3-453c-8781-6edbbe479d21",
+        "unique_id": "98cd2265-896d-45b7-867b-67c0057919a0",
         "import_id": null,
         "last_action": null,
         "task": 2,
@@ -336,13 +421,13 @@
         "last_created_by": null
       }
     ],
-    "file_upload": "1af41dd4-signboard.jpg",
+    "file_upload": "cd175c2b-signboard.jpg",
     "drafts": [],
     "predictions": [],
-    "data": { "ocr": "/data/upload/1/1af41dd4-signboard.jpg" },
+    "data": { "ocr": "/data/upload/1/cd175c2b-signboard.jpg" },
     "meta": {},
-    "created_at": "2024-05-29T04:59:32.016503Z",
-    "updated_at": "2024-05-29T05:09:40.881460Z",
+    "created_at": "2024-05-29T08:53:37.064286Z",
+    "updated_at": "2024-05-29T08:58:10.494609Z",
     "inner_id": 2,
     "total_annotations": 1,
     "cancelled_annotations": 0,

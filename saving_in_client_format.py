@@ -1,20 +1,25 @@
 import json
 import os
 
+# path to the folder containing the json files
 main_folder_path = "/run/media/ashwinhimanshu11/New Volume/Work/Work/label_studio_task/separated_json_files"
+
 
 files = os.listdir(main_folder_path)
     
+# finding files that end with .json
 json_files = [file for file in files if file.endswith('.json')]
+
 
 for json_file in json_files:
     file_path = os.path.join(main_folder_path, json_file)
     with open(file_path, 'r') as f:
         data = json.load(f)
 
-
+    # list for the data
     client_format_data = []
 
+    # searching in result element
     for item in data["result"]:
         text = None
         bbox = None
@@ -31,6 +36,7 @@ for json_file in json_files:
                 "rotation": item["value"]["rotation"]
             }
 
+        # appending the data to json
         if text and bbox:
             client_format_data.append({"text": text, "bbox": bbox})
 
@@ -40,6 +46,7 @@ for json_file in json_files:
 
             print(data)
 
+            # dumping the data in a .json file
             filename = os.path.join(f"client_format.json")
             with open(filename, "w") as json_file:
                 json.dump(client_format_data, json_file, indent=4)
