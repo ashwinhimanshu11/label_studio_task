@@ -1,0 +1,97 @@
+{
+    "id": 1,
+    "completed_by": 1,
+    "result": [
+        {
+            "original_width": 1280,
+            "original_height": 960,
+            "image_rotation": 0,
+            "value": {
+                "x": 27.079395085066167,
+                "y": 56.33270321361059,
+                "width": 47.63705103969754,
+                "height": 8.884688090737235,
+                "rotation": 0
+            },
+            "id": "WAcAzX7Nj8",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "origin": "manual"
+        },
+        {
+            "original_width": 1280,
+            "original_height": 960,
+            "image_rotation": 0,
+            "value": {
+                "x": 27.079395085066167,
+                "y": 56.33270321361059,
+                "width": 47.63705103969754,
+                "height": 8.884688090737235,
+                "rotation": 0,
+                "text": [
+                    "CARDTERMS"
+                ]
+            },
+            "id": "WAcAzX7Nj8",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+        },
+        {
+            "original_width": 1280,
+            "original_height": 960,
+            "image_rotation": 0,
+            "value": {
+                "x": 20.739799202506592,
+                "y": 69.83005224928921,
+                "width": 60.25519848771258,
+                "height": 5.67107750472591,
+                "rotation": 0.9710219310788375
+            },
+            "id": "Zw35vUHnIq",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "origin": "manual"
+        },
+        {
+            "original_width": 1280,
+            "original_height": 960,
+            "image_rotation": 0,
+            "value": {
+                "x": 20.739799202506592,
+                "y": 69.83005224928921,
+                "width": 60.25519848771258,
+                "height": 5.67107750472591,
+                "rotation": 0.9710219310788375,
+                "text": [
+                    "CARDTERMS MARKETING SDN BHD"
+                ]
+            },
+            "id": "Zw35vUHnIq",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+        }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2024-05-29T05:06:07.681818Z",
+    "updated_at": "2024-05-29T05:06:07.681856Z",
+    "draft_created_at": "2024-05-29T05:03:27.893243Z",
+    "lead_time": 173.477,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "387a3055-312e-4f4b-8d4b-493d2c1b7642",
+    "import_id": null,
+    "last_action": null,
+    "task": 1,
+    "project": 1,
+    "updated_by": 1,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+}

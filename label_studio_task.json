@@ -1,0 +1,357 @@
+[
+  {
+    "id": 1,
+    "annotations": [
+      {
+        "id": 1,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 1280,
+            "original_height": 960,
+            "image_rotation": 0,
+            "value": {
+              "x": 27.079395085066167,
+              "y": 56.33270321361059,
+              "width": 47.63705103969754,
+              "height": 8.884688090737235,
+              "rotation": 0
+            },
+            "id": "WAcAzX7Nj8",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1280,
+            "original_height": 960,
+            "image_rotation": 0,
+            "value": {
+              "x": 27.079395085066167,
+              "y": 56.33270321361059,
+              "width": 47.63705103969754,
+              "height": 8.884688090737235,
+              "rotation": 0,
+              "text": ["CARDTERMS"]
+            },
+            "id": "WAcAzX7Nj8",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1280,
+            "original_height": 960,
+            "image_rotation": 0,
+            "value": {
+              "x": 20.739799202506592,
+              "y": 69.83005224928921,
+              "width": 60.25519848771258,
+              "height": 5.67107750472591,
+              "rotation": 0.9710219310788375
+            },
+            "id": "Zw35vUHnIq",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1280,
+            "original_height": 960,
+            "image_rotation": 0,
+            "value": {
+              "x": 20.739799202506592,
+              "y": 69.83005224928921,
+              "width": 60.25519848771258,
+              "height": 5.67107750472591,
+              "rotation": 0.9710219310788375,
+              "text": ["CARDTERMS MARKETING SDN BHD"]
+            },
+            "id": "Zw35vUHnIq",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-05-29T05:06:07.681818Z",
+        "updated_at": "2024-05-29T05:06:07.681856Z",
+        "draft_created_at": "2024-05-29T05:03:27.893243Z",
+        "lead_time": 173.477,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "387a3055-312e-4f4b-8d4b-493d2c1b7642",
+        "import_id": null,
+        "last_action": null,
+        "task": 1,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "5239d9e7-dsc00734.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": { "ocr": "/data/upload/1/5239d9e7-dsc00734.jpg" },
+    "meta": {},
+    "created_at": "2024-05-29T04:59:32.016399Z",
+    "updated_at": "2024-05-29T05:06:07.740528Z",
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 2,
+    "annotations": [
+      {
+        "id": 2,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "points": [
+                [26.795841209829867, 37.24007561436673],
+                [75.14177693761815, 34.78260869565217],
+                [75.14177693761815, 41.02079395085066],
+                [26.65406427221172, 42.53308128544423]
+              ],
+              "closed": true
+            },
+            "id": "A0mZobXfcF",
+            "from_name": "poly",
+            "to_name": "image",
+            "type": "polygon",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "points": [
+                [26.795841209829867, 37.24007561436673],
+                [75.14177693761815, 34.78260869565217],
+                [75.14177693761815, 41.02079395085066],
+                [26.65406427221172, 42.53308128544423]
+              ],
+              "closed": true,
+              "text": ["PUSAT PEMBUNGKUSAN"]
+            },
+            "id": "A0mZobXfcF",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "points": [
+                [27.07939508506619, 43.667296786389414],
+                [75, 42.53308128544423],
+                [74.7164461247637, 48.77126654064272],
+                [27.07939508506616, 48.20415879017013]
+              ],
+              "closed": true
+            },
+            "id": "jOALsaOukO",
+            "from_name": "poly",
+            "to_name": "image",
+            "type": "polygon",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "points": [
+                [27.07939508506619, 43.667296786389414],
+                [75, 42.53308128544423],
+                [74.7164461247637, 48.77126654064272],
+                [27.07939508506616, 48.20415879017013]
+              ],
+              "closed": true,
+              "text": ["DAN PELABELAN FAMA"]
+            },
+            "id": "jOALsaOukO",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "points": [
+                [57.76070189752206, 28.742607939592396],
+                [57.89298187300685, 32.44644725316684],
+                [64.24242069627732, 31.91732735122763],
+                [63.77944078208052, 28.30167468797639]
+              ],
+              "closed": true
+            },
+            "id": "KYXQQw9U2T",
+            "from_name": "poly",
+            "to_name": "image",
+            "type": "polygon",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "points": [
+                [57.76070189752206, 28.742607939592396],
+                [57.89298187300685, 32.44644725316684],
+                [64.24242069627732, 31.91732735122763],
+                [63.77944078208052, 28.30167468797639]
+              ],
+              "closed": true,
+              "text": ["FAMA"]
+            },
+            "id": "KYXQQw9U2T",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "points": [
+                [44.46656436129952, 29.359914491854806],
+                [37.65414562383224, 29.624474442824404],
+                [38.315545501256246, 26.273381730542773],
+                [44.40042437355711, 25.832448478926768]
+              ],
+              "closed": true
+            },
+            "id": "P04aOgUmzA",
+            "from_name": "poly",
+            "to_name": "image",
+            "type": "polygon",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "points": [
+                [44.46656436129952, 29.359914491854806],
+                [37.65414562383224, 29.624474442824404],
+                [38.315545501256246, 26.273381730542773],
+                [44.40042437355711, 25.832448478926768]
+              ],
+              "closed": true,
+              "text": ["moa"]
+            },
+            "id": "P04aOgUmzA",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "points": [
+                [46.913743907768335, 55.02222973590629],
+                [46.71532394454114, 61.371668559176754],
+                [60.86928132141489, 61.72441516046956],
+                [60.803141333672485, 55.46316298752229]
+              ],
+              "closed": true
+            },
+            "id": "JBMzqH1a9U",
+            "from_name": "poly",
+            "to_name": "image",
+            "type": "polygon",
+            "origin": "manual"
+          },
+          {
+            "original_width": 2048,
+            "original_height": 1536,
+            "image_rotation": 0,
+            "value": {
+              "points": [
+                [46.913743907768335, 55.02222973590629],
+                [46.71532394454114, 61.371668559176754],
+                [60.86928132141489, 61.72441516046956],
+                [60.803141333672485, 55.46316298752229]
+              ],
+              "closed": true,
+              "text": ["5 KM"]
+            },
+            "id": "JBMzqH1a9U",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-05-29T05:09:40.829108Z",
+        "updated_at": "2024-05-29T05:09:40.829146Z",
+        "draft_created_at": "2024-05-29T05:06:31.179724Z",
+        "lead_time": 208.978,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a8e1f725-2ba3-453c-8781-6edbbe479d21",
+        "import_id": null,
+        "last_action": null,
+        "task": 2,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "1af41dd4-signboard.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": { "ocr": "/data/upload/1/1af41dd4-signboard.jpg" },
+    "meta": {},
+    "created_at": "2024-05-29T04:59:32.016503Z",
+    "updated_at": "2024-05-29T05:09:40.881460Z",
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  }
+]
